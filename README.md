@@ -28,4 +28,4 @@ python filename.py
 
 ## Author
 
-**Sushmitha**
+**Preethi**
